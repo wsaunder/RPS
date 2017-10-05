@@ -9,13 +9,10 @@ header {
     text-align: center;
 }
 
-table {
-    border-collapse: collapse;
-    width: 50%;
-}
 
-div1 { position: absolute;
-           top: 1px;
+
+div1 { position: relative;
+           top: 10px;
            left: 50%;
            margin-left: -500px;  }
 
