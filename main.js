@@ -18,7 +18,7 @@ function chop()
 
 function fight(input){
     var a, b, input;
-        a = Math.round(Math.random() * 3);
+        a = Math.round(Math.random() * 3 + 0.49);
        
         if (a == input) {
             document.getElementById("outcome").innerHTML = "We Tied!";
